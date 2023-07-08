@@ -27,11 +27,13 @@ document.getElementById('aspa').innerHTML =edediOrta;
 
 
 
+
 let a  = +prompt('terefleri ');
 let b = +prompt('sahesini tapmaq ucun ');
 
 let duzbucaqliSahesi = a * b;
 document.getElementById('aspa').innerHTML =duzbucaqliSahesi;
+
 
 
 
